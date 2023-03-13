@@ -317,6 +317,7 @@
     letter-spacing: 0.5px;
     color: #9a9a9b;
 }
+
 @media (max-width: 1120px) {
     .container {
         padding: 0 20px;
@@ -410,3 +411,12 @@
 .mob-btn {
     display: none;
 }
+.img-card-3 {background-image: url(img/card-3.png);}
+
+.card-big-2{
+    width: 540px;
+}
+.card-small-1 {
+    width: 360px;
+}
+.img-card-4 {background-image: url(img/card-4.png);}
